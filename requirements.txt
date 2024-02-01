@@ -1,0 +1,5 @@
+numpy>=1.17,<2
+scipy>=1.5
+qiskit==0.45.0
+qiskit-aer==0.12.2
+qiskit-terra==0.45.0
