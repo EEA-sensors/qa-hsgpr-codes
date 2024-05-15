@@ -1,3 +1,5 @@
-# Quantum assisted Hilbert space Gaussian Process Regression
+# README
 
-Gaussian processes are probabilistic models that are commonly used as functional priors in machine learning. Due to their probabilistic nature, they can be used to capture the prior information on the statistics of noise,  smoothness of the functions, and training data uncertainty. However, their computational complexity quickly becomes intractable as the size of the data set grows. We propose a Hilbert space approximation-based quantum algorithm for Gaussian process regression to overcome this limitation. Our method consists of a combination of classical basis function expansion with quantum computing techniques of quantum principal component analysis, conditional rotations, and Hadamard and Swap tests. The quantum principal component analysis is used to estimate the eigenvalues while the conditional rotations and the Hadamard and Swap tests are employed to evaluate the posterior mean and variance of the Gaussian process. Our method provides polynomial computational complexity reduction over the classical method.
+Numerical simulations for the paper "Quantum-assisted Hilbert-space Gaussian process regression".
+
+DOI:https://doi.org/10.1103/PhysRevA.109.052410
